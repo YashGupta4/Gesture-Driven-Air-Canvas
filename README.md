@@ -72,9 +72,8 @@ The Gesture-Driven-Air-Canvas is a virtual drawing application that allows you t
    - The application includes trackbars to fine-tune the HSV values for the marker color, ensuring accurate detection based on different lighting conditions.
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/c96981f6-f280-4a35-915b-1ad3e0d7d9f0)
 
-![Drawing Example](screenshots/drawing_example.png)
-*Example of drawing using the application.*
 
 ## License
 
