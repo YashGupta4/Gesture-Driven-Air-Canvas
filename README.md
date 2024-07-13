@@ -73,6 +73,8 @@ The Gesture-Driven-Air-Canvas is a virtual drawing application that allows you t
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/c96981f6-f280-4a35-915b-1ad3e0d7d9f0)
+![image](https://github.com/user-attachments/assets/5fd39279-f5ad-44f2-b212-8e4c35f86e75)
+![image](https://github.com/user-attachments/assets/b1d51e83-3146-423c-b2df-acde8e76d73a)
 
 
 ## License
